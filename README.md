@@ -1,2 +1,3 @@
 # Hello-world
-testrepositoyr
+testrepository
+testing and working with github for the first time
